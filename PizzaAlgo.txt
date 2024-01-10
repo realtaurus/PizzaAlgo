@@ -1,4 +1,5 @@
 Call Pizza Spot.
 Order desired toppings.
 Use credit/debit card to pay for pizza.
-Wait for delivery to arrive. 
+Wait for delivery to arrive.
+Enjoy Pizza
